@@ -1,5 +1,5 @@
 # Simulator
-A program in C++ that simulates the contents of a file containing a 256 byte SCRAM program. The extended SCRAM instructions are simulated. 
+A program in C that simulates the contents of a file containing a 256 byte SCRAM program. The extended SCRAM instructions are simulated. 
 
 For each instruction fed to the simulator, the address is oputput as:
 0x followed by a two digit hexadecimal number representing the address, 
