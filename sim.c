@@ -1,6 +1,6 @@
 /*
 
-Name: Kunal Baran Maiti, JHED ID: kmaiti1, CSF Spring 2019, Prog Assignment 3 (Simulator)
+Kunal Baran Maiti
 
 sim.c - Simulator for a file containing a 256 byte SCRAM program.
 
