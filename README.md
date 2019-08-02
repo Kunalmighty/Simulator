@@ -1,8 +1,7 @@
 # Simulator
 A program in C that simulates the contents of a file containing a 256 byte SCRAM program. The extended SCRAM instructions are simulated:
 
-![Extended SCRAM Instruction Set]
-(https://github.com/Kunalmighty/Simulator/blob/master/instructionSet.png)
+![Extended SCRAM Instruction Set](https://github.com/Kunalmighty/Simulator/blob/master/instructionSet.png)
 
 For each instruction fed to the simulator, the address is oputput as:
 0x followed by a two digit hexadecimal number representing the address, 
